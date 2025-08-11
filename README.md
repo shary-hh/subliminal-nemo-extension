@@ -1,1 +1,0 @@
-# subliminal-nemo-extension
